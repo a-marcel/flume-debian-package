@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 15 Dec 2014 15:48:31 +0100
+Source: flume-ng
+Binary: flume-ng-agent
+Architecture: source all
+Version: 1.5.2
+Distribution: weeaar
+Urgency: low
+Maintainer: Marcel Alburg <m.alburg@weeaar.com>
+Changed-By: Marcel Alburg <m.alburg@weeaar.com>
+Description: 
+ flume-ng-agent - reliable, scalable, and manageable distributed data collection ap
+Changes: 
+ flume-ng (1.5.2) weeaar; urgency=low
+ .
+   * First Working Version build with this package builder.
+Checksums-Sha1: 
+ 529e046c5e47f74cd50a114309b42e996f87b417 538 flume-ng_1.5.2.dsc
+ bd2052d0fa643d8e76439e3550877684a43b484f 65689019 flume-ng_1.5.2.tar.gz
+ b24d3c16784d081829a4f5379cfde57affd17af5 16385428 flume-ng-agent_1.5.2_all.deb
+Checksums-Sha256: 
+ a370949a56a594ed386b33e2f727a320bd968c5ad782cf2d8bc5dac89883198b 538 flume-ng_1.5.2.dsc
+ 88bb33c899e988e341fb6a51c945a93b76016bca836123228f803c8b9605f6b2 65689019 flume-ng_1.5.2.tar.gz
+ 62a3f4c833d8d5de931dc968e2349edab639582229904af5d3da1866b6684ac1 16385428 flume-ng-agent_1.5.2_all.deb
+Files: 
+ 941924896a44b2cabc8d9a7f1b6a5a15 538 misc optional flume-ng_1.5.2.dsc
+ b5c7637fe7f94b9bd7ea7e2bba3268f8 65689019 misc optional flume-ng_1.5.2.tar.gz
+ 1ba1874d29979268a1131654b9768d00 16385428 misc optional flume-ng-agent_1.5.2_all.deb
